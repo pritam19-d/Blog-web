@@ -30,7 +30,7 @@
 
 footer {
     color: #fff;
-	position: absolute;
+	position: fixed;
 	text-align: center;
 	bottom: 0;
 	width: 100%;
@@ -42,7 +42,7 @@ footer {
     border-radius: 50%;
     border-style:none;
     background-color:transparent;
-    position:absolute;
+    position:fixed;
     bottom: 10vh;
     right: 2%;
 }
