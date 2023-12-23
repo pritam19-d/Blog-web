@@ -78,6 +78,6 @@ app.get("/posts/:postId", function (req, res) {
 })
 
 
-app.listen(1000, function () {
+app.listen(1000, "0.0.0.0", function () {
   console.log("Server started on port 1000");
 });
