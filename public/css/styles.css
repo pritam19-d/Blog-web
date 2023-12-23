@@ -37,3 +37,18 @@ footer {
 	height: 8%;
 	background-color: #1abc9c;
 }
+
+.navigateButton{
+    border-radius: 50%;
+    border-style:none;
+    position:absolute;
+    bottom: 10vh;
+    right: 2%;
+}
+.navigateButton a{
+    text-decoration: solid;
+    color: #1abc9c;
+    font-size: 300%;
+    padding-left: 12px;
+    padding-right: 12px;
+}
