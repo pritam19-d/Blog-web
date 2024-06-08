@@ -56,4 +56,5 @@ footer {
 
 .navigateButton:hover {
     background-color:#7fffd474;
+    box-shadow: inset;
 }
